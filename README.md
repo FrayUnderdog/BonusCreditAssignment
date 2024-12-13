@@ -14,10 +14,9 @@ Make sure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/) (Comes with Node.js)
 
 ### Steps
-1. Clone the repository:
+1. Clone the repository and access to the file in command line:
    ```bash
    git clone <repository-url>
-   cd weather-app
 2. Install dependencies:
    ```bash
     npm install
