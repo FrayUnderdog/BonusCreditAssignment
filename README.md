@@ -24,6 +24,6 @@ Make sure you have the following installed on your machine:
 3. Start the development server:
   ```bash
     npm start
+
 4. Open your browser and visit:
-   ```bash
     http://localhost:3000
