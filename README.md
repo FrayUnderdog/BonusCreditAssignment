@@ -25,4 +25,5 @@ Make sure you have the following installed on your machine:
   ```bash
     npm start
 4. Open your browser and visit:
+   ```bash
     http://localhost:3000
